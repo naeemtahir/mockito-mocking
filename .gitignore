@@ -1,0 +1,11 @@
+*.class
+
+# Package Files #
+*.jar
+
+# Eclipse Files #
+.checkstyle
+.classpath
+.project
+.settings/
+target/
