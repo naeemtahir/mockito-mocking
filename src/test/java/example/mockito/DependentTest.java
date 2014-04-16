@@ -14,6 +14,11 @@ import org.junit.Test;
 import example.mockito.Dependency;
 import example.mockito.Dependent;
 
+/**
+ * 
+ * @author Naeem Tahir
+ *
+ */
 public class DependentTest {
 
     @Test
