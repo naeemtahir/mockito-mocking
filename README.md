@@ -8,5 +8,5 @@ An example demonstrating Mockito in various testing scenarios (see http://naeemt
 
 How to execute Unit Tests
 -------------------------
-<pre><code>mvn clean install</code></pre>
+<pre><code>mvn test</code></pre>
 
